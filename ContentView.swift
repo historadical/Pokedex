@@ -1,5 +1,5 @@
     //
-    //  ContentView 2.swift
+    //  ContentView.swift
     //  Pokedex
     //
     //  Created by Nic on 8/27/24.
